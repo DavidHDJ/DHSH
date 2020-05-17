@@ -1,0 +1,2 @@
+rootProject.name='DHSH'
+include ':app', ':dhshandroid'
